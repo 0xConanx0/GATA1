@@ -22,8 +22,8 @@ Before running this project, make sure you have installed:
 1. **Clone this repository:**
 
     ```plaintext
-    git clone https://github.com/wrightL-dev/GATA
-    cd GATA
+    git clone https://github.com/0xConanx0/GATA1
+    cd GATA1
 
 2. **Install the required packages:**
 
